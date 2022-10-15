@@ -65,7 +65,7 @@
 ## 프로젝트를 진행하며 정리한 내용을 블로그에 포스팅했습니다.
 
 - [카카오톡 소셜로그인 인가 코드 받기](https://velog.io/@rayong/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-%EC%86%8C%EC%85%9C%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%9D%B8%EA%B0%80-%EC%BD%94%EB%93%9C-%EB%B0%9B%EA%B8%B0)
-- [깃 캐쉬 삭제, Git Cache]([https://velog.io/@rayong/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-%EC%86%8C%EC%85%9C%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%9D%B8%EA%B0%80-%EC%BD%94%EB%93%9C-%EB%B0%9B%EA%B8%B0](https://velog.io/@rayong/%EA%B9%83-%EC%BA%90%EC%89%AC-%EC%82%AD%EC%A0%9C-Git-Cache))
+- [깃 캐쉬 삭제, Git Cache]([https://velog.io/@rayong/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-%EC%86%8C%EC%85%9C%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%9D%B8%EA%B0%80-%EC%BD%94%EB%93%9C-%EB%B0%9B%EA%B8%B0](https://velog.io/@rayong/%EA%B9%83-%EC%BA%90%EC%89%AC-%EC%82%AD%EC%A0%9C-Git-Cache)
 - [리액트 슬릭 캐러셀, 슬라이더, react-slick](https://velog.io/@rayong/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%8A%AC%EB%A6%AD-%EC%BA%90%EB%9F%AC%EC%85%80-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%8D%94-react-slick)
 - [네이버 소셜로그인, 프론트엔드, 리액트](https://velog.io/@rayong/%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%86%8C%EC%85%9C%EB%A1%9C%EA%B7%B8%EC%9D%B8-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8)
 - [리액트 config.js 파일로 API 관리하기](https://velog.io/@rayong/%EB%A6%AC%EC%95%A1%ED%8A%B8-config.js-%ED%8C%8C%EC%9D%BC%EB%A1%9C-API-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0)
